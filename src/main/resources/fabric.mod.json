@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "riverreeds",
+  "version": "${version}",
+  "name": "RiverReeds",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "Apache-2.0",
+  "icon": "assets/riverreeds/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "org.sequoia.riverreeds.client.RiverreedsDataGenerator"
+    ],
+    "client": [
+      "org.sequoia.riverreeds.client.RiverreedsClient"
+    ],
+    "main": [
+      "org.sequoia.riverreeds.Riverreeds"
+    ]
+  },
+  "mixins": [
+    "riverreeds.mixins.json",
+    {
+      "config": "riverreeds.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

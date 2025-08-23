@@ -19,3 +19,16 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+*.tmp
+*.swp
+
+# Minecraft / Loom
+run/
