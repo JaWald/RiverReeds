@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "riverreeds:cattail"
+    }
+  },
+  "result": {
+    "item": "riverreeds:reed",
+    "count": 2
+  }
+}
