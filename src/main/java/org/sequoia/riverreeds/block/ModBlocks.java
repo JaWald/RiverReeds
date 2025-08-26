@@ -23,5 +23,5 @@ public class ModBlocks {
         return block;
     }
 
-    public static void initialize(){};
+    public static void initialize(){}
 }
