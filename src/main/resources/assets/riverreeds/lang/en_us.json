@@ -2,5 +2,6 @@
   "item.riverreeds.cattail": "Cattail",
   "item.riverreeds.cattail_seed": "Cattail Seed",
   "item.riverreeds.reed": "Reed",
-  "item.riverreeds.dried_reed": "Dried Reed"
+  "item.riverreeds.dried_reed": "Dried Reed",
+  "block.riverreeds.cattail_crop": "Cattail"
 }

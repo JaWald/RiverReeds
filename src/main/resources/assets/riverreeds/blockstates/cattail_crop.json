@@ -1,13 +1,13 @@
 {
   "variants": {
-    "age=0": { "model": "riverreeds:block/cattail_crop_stage0" },
-    "age=1": { "model": "riverreeds:block/cattail_crop_stage0" },
-    "age=2": { "model": "riverreeds:block/cattail_crop_stage0" },
-    "age=3": { "model": "riverreeds:block/cattail_crop_stage0" },
-    "age=4": { "model": "riverreeds:block/cattail_crop_stage0" },
-    "age=5": { "model": "riverreeds:block/cattail_crop_stage0" },
-    "age=6": { "model": "riverreeds:block/cattail_crop_stage0" },
-    "age=7": { "model": "riverreeds:block/cattail_crop_stage0" }
+    "age=0": { "model": "riverreeds:block/cattail_crop_lower_stage0" },
+    "age=1": { "model": "riverreeds:block/cattail_crop_upper_stage0" },
+    "age=2": { "model": "riverreeds:block/cattail_crop_upper_stage0" },
+    "age=3": { "model": "riverreeds:block/cattail_crop_upper_stage0" },
+    "age=4": { "model": "riverreeds:block/cattail_crop_upper_stage0" },
+    "age=5": { "model": "riverreeds:block/cattail_crop_upper_stage0" },
+    "age=6": { "model": "riverreeds:block/cattail_crop_upper_stage0" },
+    "age=7": { "model": "riverreeds:block/cattail_crop_upper_stage0" }
   }
 }
 
