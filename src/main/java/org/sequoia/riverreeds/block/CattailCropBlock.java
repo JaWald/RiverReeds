@@ -11,8 +11,6 @@ import net.minecraft.world.BlockView;
 import net.minecraft.world.World;
 import net.minecraft.world.WorldView;
 
-import static org.sequoia.riverreeds.block.CattailStemBlock.LOWER_MAX_AGE;
-
 public class CattailCropBlock extends CropBlock {
     public static final int UPPER_MAX_AGE = 7;
     private static final VoxelShape[] UPPER_AGE_TO_SHAPE = new VoxelShape[]{
