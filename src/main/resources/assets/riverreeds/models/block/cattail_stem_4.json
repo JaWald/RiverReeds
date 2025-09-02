@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "riverreeds:block/cattail_stem_4"
+  }
+}

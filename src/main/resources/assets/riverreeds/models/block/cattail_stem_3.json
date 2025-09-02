@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/crop",
   "textures": {
-    "crop": "riverreeds:block/cattail_crop_upper_stage0"
+    "crop": "riverreeds:block/cattail_stem_3"
   }
 }
