@@ -40,7 +40,10 @@ public class CattailStemBlock extends CropBlock {
     public boolean canPlaceAt(BlockState state, WorldView world, BlockPos pos) {
         BlockState ground = world.getBlockState(pos.down());
 
-        boolean isValidGround = ground.isOf(Blocks.DIRT) || ground.isOf(Blocks.CLAY) || ground.isOf(Blocks.GRAVEL);
+        boolean isValidGround = ground.isOf(Blocks.DIRT) ||
+                                ground.isOf(Blocks.CLAY) ||
+                                ground.isOf(Blocks.GRAVEL) ||
+                                ground.isOf(Blocks.MUD);
         boolean isInStillWater = world.getFluidState(pos).isStill();
         boolean isInShallowWater = world.getFluidState(pos.up()).isEmpty();
 
@@ -96,11 +99,6 @@ public class CattailStemBlock extends CropBlock {
     @Override
     public VoxelShape getOutlineShape(BlockState state, BlockView world, BlockPos pos, ShapeContext context) {
         return LOWER_AGE_TO_SHAPE[getAge(state)];
-    }
-
-    @Override
-    protected IntProperty getAgeProperty() {
-        return AGE;
     }
 
     @Override
