@@ -10,6 +10,14 @@ import net.minecraft.util.Identifier;
 import org.sequoia.riverreeds.Riverreeds;
 
 public class ModBlocks {
+    public static final CropBlock CATTAIL_STEM = register("cattail_stem",
+            new CattailStemBlock(FabricBlockSettings.create()
+                    .nonOpaque()
+                    .noCollision()
+                    .ticksRandomly()
+                    .breakInstantly()
+                    .sounds(BlockSoundGroup.CROP)));
+
     public static final CropBlock CATTAIL_CROP = register("cattail_crop",
             new CattailCropBlock(FabricBlockSettings.create()
                     .nonOpaque()

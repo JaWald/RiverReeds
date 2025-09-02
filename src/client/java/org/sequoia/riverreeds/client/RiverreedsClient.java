@@ -9,6 +9,7 @@ public class RiverreedsClient implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
+        BlockRenderLayerMap.INSTANCE.putBlocks(RenderLayer.getCutout(), ModBlocks.CATTAIL_STEM);
         BlockRenderLayerMap.INSTANCE.putBlocks(RenderLayer.getCutout(), ModBlocks.CATTAIL_CROP);
     }
 }

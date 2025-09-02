@@ -15,7 +15,7 @@ public class ModItems {
     public static final Item CATTAIL = register(new Item(new FabricItemSettings().maxCount(64)), "cattail");
     public static final Item REED = register(new Item(new FabricItemSettings().maxCount(64)), "reed");
     public static final Item DRIED_REED = register(new Item(new FabricItemSettings().maxCount(64)), "dried_reed");
-    public static final Item CATTAIL_SEED = register(new AliasedBlockItem(ModBlocks.CATTAIL_CROP, new FabricItemSettings().maxCount(64)), "cattail_seed");
+    public static final Item CATTAIL_SEED = register(new AliasedBlockItem(ModBlocks.CATTAIL_STEM, new FabricItemSettings().maxCount(64)), "cattail_seed");
 
     public static Item register(Item item, String id) {
         Identifier itemID = new Identifier(Riverreeds.MOD_ID, id);
