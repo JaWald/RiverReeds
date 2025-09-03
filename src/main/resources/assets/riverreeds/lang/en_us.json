@@ -3,5 +3,12 @@
   "item.riverreeds.cattail_seed": "Cattail Seed",
   "item.riverreeds.reed": "Reed",
   "item.riverreeds.dried_reed": "Dried Reed",
-  "block.riverreeds.cattail_crop": "Cattail"
+
+  "block.riverreeds.cattail_crop": "Cattail",
+  "block.riverreeds.cattail_stem": "Cattail Stem",
+  "block.riverreeds.thatch_block": "Thatch",
+  "block.riverreeds.thatch_slab": "Thatch Slab",
+  "block.riverreeds.thatch_stair": "Thatch Stair",
+
+  "itemGroup.riverreeds": "RiverReeds"
 }

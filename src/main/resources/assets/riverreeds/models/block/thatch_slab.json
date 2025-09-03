@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "riverreeds:block/thatch_slab",
+    "top": "riverreeds:block/thatch_slab",
+    "side": "riverreeds:block/thatch_slab"
+  }
+}

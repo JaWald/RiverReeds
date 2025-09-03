@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "riverreeds:block/thatch_slab" },
+    "type=top":    { "model": "riverreeds:block/thatch_slab", "y": 180 },
+    "type=double": { "model": "block/cube_all" }
+  }
+}
