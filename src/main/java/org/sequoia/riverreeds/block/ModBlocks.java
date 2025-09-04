@@ -44,8 +44,8 @@ public class ModBlocks {
                     .strength(0.5f)
                     .sounds(BlockSoundGroup.GRASS)));
 
-    public static final ThatchStair THATCH_STAIR = register("thatch_stair",
-            new ThatchStair(THATCH_BLOCK.getDefaultState(), FabricBlockSettings
+    public static final ThatchStairs THATCH_STAIRS = register("thatch_stairs",
+            new ThatchStairs(THATCH_BLOCK.getDefaultState(), FabricBlockSettings
                     .create()
                     .nonOpaque()
                     .strength(0.5f)
@@ -66,7 +66,7 @@ public class ModBlocks {
         ItemGroupEvents.modifyEntriesEvent(ITEM_GROUP_KEY).register((entries) -> {
             entries.add(THATCH_BLOCK.asItem());
             entries.add(THATCH_SLAB.asItem());
-            entries.add(THATCH_STAIR.asItem());
+            entries.add(THATCH_STAIRS.asItem());
         });
     }
 }

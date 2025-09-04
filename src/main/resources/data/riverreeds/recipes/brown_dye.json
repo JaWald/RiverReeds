@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "riverreeds:cattail" }
+  ],
+  "result": {
+    "item": "minecraft:brown_dye",
+    "count": 1
+  }
+}

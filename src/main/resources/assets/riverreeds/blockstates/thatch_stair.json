@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "riverreeds:block/thatch_stair" },
-    "facing=south": { "model": "riverreeds:block/thatch_stair", "y": 180 },
-    "facing=west":  { "model": "riverreeds:block/thatch_stair", "y": 270 },
-    "facing=east":  { "model": "riverreeds:block/thatch_stair", "y": 90 }
-  }
-}

@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#",
-    "#"
+    "##",
+    "##"
   ],
   "key": {
     "#": {
-      "item": "riverreeds:cattail"
+      "item": "riverreeds:dried_reed"
     }
   },
   "result": {
-    "item": "riverreeds:reed",
-    "count": 4
+    "item": "riverreeds:thatch_block",
+    "count": 1
   }
 }

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "riverreeds:thatch_block",
+    "riverreeds:thatch_slab",
+    "riverreeds:thatch_stairs"
+  ]
+}
