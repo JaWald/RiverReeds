@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "type=bottom": {"model": "riverreeds:block/thatch_slab"
+    },
+    "type=double": {"model": "riverreeds:block/thatch_block"
+    },
+    "type=top": {"model": "riverreeds:block/thatch_slab_top"
+    }
+  }
+}

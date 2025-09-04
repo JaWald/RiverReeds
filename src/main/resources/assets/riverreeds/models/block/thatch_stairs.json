@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "riverreeds:block/thatch_block",
+    "side": "riverreeds:block/thatch_block",
+    "top": "riverreeds:block/thatch_block"
+  }
+}
