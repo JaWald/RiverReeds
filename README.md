@@ -11,8 +11,11 @@
   - **Thatch Blocks** (with slab & stair variants)  
 
 ## 🛠️ Crafting
-<Insert crafting schematic here>
-<br>
+Cattails     -> 1 in crafting grid  -> Brown Dye
+Cattails     -> 2 above one another -> Reed
+Reed         -> Dry in furnace      -> Dried Reed
+Dried Reed   -> 4 as a square       -> Thatch Block
+Thatch Block -> As usual, you can craft Thatch Stairs and Thatch Slabs
 
 ## 📸 Screenshots
 <Insert photos here>
