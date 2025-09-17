@@ -13,11 +13,11 @@
 
 ## 🛠️ Crafting
 ### Reed
-<img width="350" height="150" alt="grafik" src="https://github.com/user-attachments/assets/6aa2d95b-2b7a-4df4-aa38-a487fa0b13fd" /> <br>
+<img width="250" height="105" alt="grafik" src="https://github.com/user-attachments/assets/6aa2d95b-2b7a-4df4-aa38-a487fa0b13fd" /> <br>
 ### Dried Reed
 Dry in a furnace, like when drying kelp
 ### Thatch
-<img width="350" height="160" alt="grafik" src="https://github.com/user-attachments/assets/fd519485-d28d-4e36-8235-f88d1b128baa" /> <br>
+<img width="250" height="110" alt="grafik" src="https://github.com/user-attachments/assets/fd519485-d28d-4e36-8235-f88d1b128baa" /> <br>
 ### Thatch Stairs / Slabs
 Use the standard recipe for stairs and slabs
 
