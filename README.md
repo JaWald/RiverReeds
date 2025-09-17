@@ -10,20 +10,22 @@
   - **Brown Dye**  
   - **Thatch Blocks** (with slab & stair variants)  
 
+
 ## 🛠️ Crafting
 ### Reed
 <img width="350" height="150" alt="grafik" src="https://github.com/user-attachments/assets/6aa2d95b-2b7a-4df4-aa38-a487fa0b13fd" /> <br>
 ### Dried Reed
-Dry in a furnace, just like kelp
+Dry in a furnace, like when drying kelp
 ### Thatch
 <img width="350" height="160" alt="grafik" src="https://github.com/user-attachments/assets/fd519485-d28d-4e36-8235-f88d1b128baa" /> <br>
 ### Thatch Stairs / Slabs
-Just the usual recipe as for any other block
+Use the standard recipe for stairs and slabs
 
 
 ## 📸 Screenshots
 <Insert photos here>
 <br>
+
 
 ## 📦 Installation
 1. Install [Fabric Loader](https://fabricmc.net/use/) and [Fabric API](https://modrinth.com/mod/fabric-api).  
