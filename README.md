@@ -23,8 +23,7 @@ Use the standard recipe for stairs and slabs
 
 
 ## 📸 Screenshots
-<Insert photos here>
-<br>
+Please see [Modrinth Page](https://modrinth.com/project/riverreeds)
 
 
 ## 📦 Installation
